@@ -1,8 +1,10 @@
+![screenshot](https://raw.githubusercontent.com/ellipticaldoor/vue-webpack-cordova/master/screenshot.jpg)
+
 # vue-webpack-cordova
 
 > The original Vue Webpack template prepared for running cordova apps on ios and android
 
-Blog post that explains how this works
+If you want to know how this was built [this blog post](https://ellipticaldoor.com/2017-10-22-making-work-the-vue-js-template-with-cordova/) explains how this works.
 
 ## Build Setup
 
@@ -26,7 +28,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## Dependencies
+## Dependencies
 ``` shell
 npm install -g cordova
 npm install
